@@ -18,5 +18,6 @@ Front-End ⚡
 Back-end (Em formação 👶)
 - Banco de Dados
 - Criação de API
+- TypeScript
 
 
