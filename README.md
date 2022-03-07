@@ -13,11 +13,12 @@ Front-End ⚡
 - HTML 
 - CSS (Styled-Components)
 - React.js
-- API Rest
+- Consumo de API Rest
 
 Back-end (Em formação 👶)
 - Banco de Dados
 - Criação de API
 - TypeScript
+- Arquitetura de Software
 
 
